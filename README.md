@@ -1,7 +1,9 @@
+
 # Desafío frontend Platzi master - Sergio sanhueza
 
 ## React Curriculum vitae, resultado final:
 
+![frontendfinal](https://user-images.githubusercontent.com/75919670/118410884-bf25b580-b65f-11eb-938d-dc9c27511d6c.png)
 
 
 ## Pasos en el proyecto:
@@ -10,6 +12,9 @@ Los componentes del proyecto fueron creados en base a la estructura propuesta pa
 
 ### Añade estilos
 El estilo incorporado viene de una inspiracion que obtuve al ver proyectos web en www.behance.net:
+
+
+![a887bad9-2c0c-4d91-86a5-892b0d67d5c5](https://user-images.githubusercontent.com/75919670/118410900-d5337600-b65f-11eb-9ac9-fcfef66b1517.jpg)
 
 
 este diseño en particular me ayudo a decidir el diseño que crearía para completar el reto.
