@@ -1,5 +1,5 @@
 import React from 'react'
-import '../styles/components/Profile.css'
+
 
 const Profile = ({ personalInfo }) => {
     return (

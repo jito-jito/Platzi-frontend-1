@@ -1,5 +1,5 @@
 import React from 'react'
-import '../styles/components/Interest.css'
+
 
 const Interest = ({ interest }) => {
     return (

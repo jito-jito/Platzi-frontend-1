@@ -1,5 +1,4 @@
 import React from 'react';
-import '../styles/containers/App.css';
 import Header from '../components/Header';
 import About from '../components/About';
 import Profile from '../components/Profile';
@@ -11,6 +10,7 @@ import Skills from '../components/Skills';
 import Interest from '../components/Interest';
 import Languages from '../components/Languages';
 import useInitialState from '../hooks/useInitialState'
+import '../styles/Global.styl'
 
 const API = 'http://localhost:3000/data'
 

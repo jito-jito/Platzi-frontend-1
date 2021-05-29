@@ -1,5 +1,5 @@
 import React from 'react'
-import '../styles/components/Languages.css'
+
 
 const Languages = ({ languages }) => {
     return (
