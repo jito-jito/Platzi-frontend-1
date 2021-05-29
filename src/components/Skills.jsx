@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState, useEffect } from 'react'
 
 
 const Skills = ({ skills }) => {
@@ -12,7 +12,7 @@ const Skills = ({ skills }) => {
                         <div key={index} className="Skill-item">
                             <p>{skill.name} ({skill.percentage})</p>
                             <div className="percentage">
-                                <div className="percentage-bar"></div>
+                                <div className="percentage-bar" style={{width: skill.percentage}}></div>
                             </div>
                         </div>
                     )
