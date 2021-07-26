@@ -1,5 +1,6 @@
+# Desafío frontend-1 Platzi master - Sergio sanhueza
 
-# Desafío frontend Platzi master - Sergio sanhueza
+Desafío de frontend en React.JS para postular a platzi master
 
 ## React Curriculum vitae, resultado final:
 
